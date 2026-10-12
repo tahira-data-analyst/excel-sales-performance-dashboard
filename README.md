@@ -7,7 +7,7 @@ This project provides a complete overview of Total Sales, Profit, and Regional P
 ---
 
 ### 📸 Dashboard Preview
-![Sales Dashboard](screenshots/Excel-Practice-Dashboard.jpg)
+![Sales Dashboard](Screenshots/Excel-Practice-Dashboard.jpg)
 
 ---
 
